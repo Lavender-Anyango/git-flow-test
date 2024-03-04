@@ -74,4 +74,9 @@ body{
 .footer{
     display: flex;
 }
+#end{
+    padding-left: 20%;
+
+
+}
 
