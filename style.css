@@ -1,0 +1,23 @@
+
+/* ============================Syling The Navbar======================== */
+.topnav{
+    text-align: center;
+  font-size: 18px;
+}
+
+.topnav a{
+    text-decoration: none;
+    color: black;
+}
+#gascut{
+    float: left;
+    font-size: xx-large;
+   font-style: oblique;
+   font-family:fantasy;
+}
+button{
+    border-width: 50%;
+    border-radius: 50%;
+    padding: 13px;
+    border: 1px black solid;
+}
