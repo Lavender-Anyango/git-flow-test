@@ -73,10 +73,14 @@ body{
 /*=====================================================STYLING THE FOOTER========================================================================*/
 .footer{
     display: flex;
+    margin-left: 8%;
+}
+#footertext{
+    float: left;
+    
+
 }
 #end{
-    padding-left: 20%;
-
-
+    padding-left: 40%;
 }
 
