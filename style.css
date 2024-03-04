@@ -21,3 +21,53 @@ button{
     padding: 13px;
     border: 1px black solid;
 }
+
+/* ================STYLING THE BODY ========================================== */
+
+#outercontainer{
+    border: none;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    padding-right: 80px;
+}
+
+#header{
+    
+    display:inline-flex;
+
+}
+#contentcontainer{
+    padding-top: 10%;
+    margin: 0%;
+    box-sizing:border-box ;
+    font-size:xx-large;
+
+}
+#photocontainer{
+    padding: 10% 10% 10%;
+}
+#star{
+    width: 70px;
+    height: 70px;
+
+}
+#secondparagraph{
+    font-size:large;
+}
+
+body{
+    text-align: center;
+}
+
+#video{
+    
+    font-size: medium;
+    display: inline-flex;
+    padding-top: 12%;
+} 
+#icons{
+    display:inline-flex;
+    padding-inline: 2px, 2px, 2px, 2px;
+    font-size: medium;
+}
+
